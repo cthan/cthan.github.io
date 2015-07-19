@@ -76,13 +76,13 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     position: fixed;
     top: 0;
     left: 0;
-    width: 10%;
+    width: 30%;
     height: 100%;
     max-width: 500px;
     background:#000;
     box-shadow:inset -1px 0 0 rgba(0,0,0,0.3);
     background-size:cover;
-    background-position:50% 50%;
+    background-position:10% 90%;
 }
 .blog .aside{
     /*background-image:url(https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*cF2i1ZosSP_UTJig.jpeg);*/
